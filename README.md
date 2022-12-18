@@ -1,2 +1,2 @@
-# YSC 2244
-Course Repo for YSC 2244, Programming for Data Science 
+# Covid Clustering
+This is a clustering project where I compare the government responses to COVID between countries. 
